@@ -97,7 +97,7 @@ section img {
 }
 
 section div h1 {
-    font-size: 42px;
+    font-size: 32px;
     letter-spacing: 1px;
     line-height: 1;
     text-align: center;
@@ -105,7 +105,7 @@ section div h1 {
 }
 
 section div p {
-    font-size: 18px;
+    font-size: 14px;
     line-height: 24px;
     letter-spacing: .7px;
     font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -158,7 +158,7 @@ section div p {
 
 .Services {
     width: 100%;
-    height: 140vh;
+    height: 150vh;
     padding: 20px 200px;
     background-color: #fafbfc;
     position: relative;
